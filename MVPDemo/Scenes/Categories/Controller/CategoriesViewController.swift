@@ -10,7 +10,7 @@ import UIKit
 class CategoriesViewController: UIViewController {
 
     @IBOutlet weak var categoriesCollectionView: UICollectionView!
-    
+    //test
     var presenter : CategoriesPresenter!
     override func viewDidLoad() {
         super.viewDidLoad()
